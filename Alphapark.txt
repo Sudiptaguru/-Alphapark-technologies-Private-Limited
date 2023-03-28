@@ -1,0 +1,8 @@
+A person will call in company and company employee will pick up the phone or a person directly go to a company. After going there he will ask his requirements.
+The employee add the person details and requirements in an object.->lead. (The person is not customer for the company). you need to create a customer for that lead.
+employee can ask his proper requirements or go to his house to create an estimate. employee add line item for that customer and send it to the customer for accepting the estimate.
+After accepting estimate, then he can convert into invoice. After converting invoice company or employee can add more line items for that invoice. Then after adding that line item employee or company send that invoice to the customer.
+
+eric@yopmail.com
+test123
+https://demo.invoicemakerpro.com/
